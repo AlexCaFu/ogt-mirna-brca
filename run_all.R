@@ -40,4 +40,4 @@ invisible(lapply(tests, run_one))
 message("\nPipeline finished in ",
         round(as.numeric(difftime(Sys.time(), t0, units = "mins")), 1),
         " min. Outputs in results/, tables/, and figures/.")
-message("Confirm values against VERIFICATION.md, then run make_repro_metadata.R and close R.")
+message("Compare the outputs with the deposited tables in results/. Scripts R/07, R/08 and R/09 are run separately.")

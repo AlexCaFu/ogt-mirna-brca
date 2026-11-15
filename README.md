@@ -2,9 +2,9 @@
 
 Code, processed result tables, figure scripts and supplementary tables for the manuscript
 
-> Hernández-Huerta MT, Vasquez Martínez IP, Cabrera-Fuentes HA. Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: an integrative analysis prioritizing the miR-200c-3p/EOGT node. Submitted to Drug Discovery Today, 2026.
+> Hernández-Huerta MT, Vasquez Martínez IP, Cabrera-Fuentes HA. Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: an integrative analysis prioritizing the miR-200c-3p/EOGT node. Manuscript submitted for publication, 2026.
 
-This release (2.1.0, 14 November 2026) corresponds to manuscript version 7.
+This release (2.1.0, 15 November 2026) corresponds to manuscript version 7.
 
 ## What the analysis does
 
@@ -40,7 +40,7 @@ data/         README only; no third-party data are redistributed
 
 ## Reproducing
 
-R (version and packages in `results/sessionInfo.txt`): open R in the repository folder and run `source("run_all.R")`. The first run downloads TCGA-BRCA and GEO data.
+R (version and packages in `results/sessionInfo.txt`): open R in the repository folder and run `source("run_all.R")`. The first run downloads TCGA-BRCA and GEO data. `run_all.R` reruns the July 2026 pipeline (scripts 00 to 06). It does not run `R/07`, `R/08` and `R/09`, which are run separately in that order, and its resistant-model step applies the superseded probe rule; its output files are named `results/03_geo_foldchanges.csv` and `tables/Table_2_regenerated.csv` and do not overwrite the deposited tables.
 
 Resistant models, named arm (Python 3.10 or later, packages in `python/requirements.txt`):
 
@@ -64,7 +64,7 @@ TCGA-BRCA (NIH Genomic Data Commons, via TCGAbiolinks); GEO series GSE26459 (GPL
 
 ## License
 
-Code: MIT (see LICENSE). Tables and figures: CC BY 4.0.
+MIT (see LICENSE).
 
 ## Contact
 

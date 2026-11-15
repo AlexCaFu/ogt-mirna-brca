@@ -8,7 +8,7 @@ abstract: >-
   for functional validation.
 type: software
 version: "2.1.0"
-date-released: "2026-11-14"
+date-released: "2026-11-15"
 license: MIT
 repository-code: "https://github.com/AlexCaFu/ogt-mirna-brca"
 keywords:
@@ -40,16 +40,3 @@ authors:
       Vice Presidency for Scientific Research and Innovation, Imam Abdulrahman
       Bin Faisal University, Dammam, Saudi Arabia; Tecnológico Nacional de México /
       Instituto Tecnológico de Tijuana, Tijuana, Mexico
-preferred-citation:
-  type: article
-  title: "Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: an integrative analysis prioritizing the miR-200c-3p/EOGT node"
-  journal: "Drug Discovery Today"
-  year: 2026
-  authors:
-    - family-names: "Hernández-Huerta"
-      given-names: "María Teresa"
-    - family-names: "Vasquez Martínez"
-      given-names: "Itzel Patricia"
-    - family-names: "Cabrera-Fuentes"
-      given-names: "Héctor A."
-      orcid: "https://orcid.org/0000-0002-8502-7098"

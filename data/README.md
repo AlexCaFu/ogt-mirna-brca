@@ -11,7 +11,7 @@ terms of use.
 - Assays used: gene expression (STAR counts), miRNA quantification, clinical
   follow-up, and the PAM50 molecular-subtype and tumor-purity annotations.
 - Retrieved with the `TCGAbiolinks` package, which downloads into a local
-  `GDCdata/` cache (git-ignored).
+  `GDCdata/` cache, which is not stored in the repository.
 - Access and use are governed by the NIH Genomic Data Sharing Policy. The
   expression and clinical data used here are open-access.
 
@@ -28,6 +28,5 @@ treated as descriptive.
 
 ## Reproducing from source
 
-The download and processing steps are performed automatically by `run_all.R`.
-The local caches (`GDCdata/`, `data/geo/`, `data/cache/`) are excluded from
-version control via `.gitignore`.
+The download and processing steps are performed by `run_all.R` and by the scripts listed in the main README.
+The local caches (`GDCdata/`, `data/geo/`, `data/cache/`) are not part of the repository.

@@ -9,7 +9,7 @@ Enzyme values (GSE26459) are copied from results/04_geo_foldchange.csv (limma in
 
 Requires: python >= 3.10, numpy, pandas, inmoose (limma port). Run from the repository root:
     python3 python/08_geo_named_arm.py
-Downloads the GEO series matrices and platform tables into data/geo/ (git-ignored)
+Downloads the GEO series matrices and platform tables into data/geo/ (not stored in the repository)
 and writes results/08_geo_named_arm_foldchange.csv.
 """
 import gzip, math, os, urllib.request, warnings
