@@ -27,7 +27,7 @@ The analysis is observational. It prioritizes miR-200c/EOGT as a hypothesis for 
 ## Layout
 
 ```
-README.md, LICENSE, CITATION.cff, .zenodo.json, MANIFEST.sha256, VERIFICATION.md
+README.md, LICENSE, CITATION.cff, MANIFEST.sha256, VERIFICATION.md
 run_all.R, make_repro_metadata.R
 R/            analysis scripts (see R/README.md); R/original/ holds the authors' original scripts
 python/       08_geo_named_arm.py (named-arm analysis of the resistant models), requirements.txt
