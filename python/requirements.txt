@@ -1,0 +1,5 @@
+numpy
+pandas
+inmoose==0.9.1
+matplotlib
+pillow

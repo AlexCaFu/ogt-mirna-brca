@@ -1,0 +1,2 @@
+analysis,n_tumor,n_normal,median_tumor,median_normal,log2FC,wilcox_p
+EOGT tumor vs adjacent normal (log2 TPM),1111,113,3.811,5.216,-1.405,2.6e-52

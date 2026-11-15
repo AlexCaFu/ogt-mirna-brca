@@ -1,0 +1,55 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and this software archive."
+title: "Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: analysis code and processed results"
+abstract: >-
+  Code, processed result tables and figure scripts for an observational integrative
+  analysis of twelve candidate microRNA-enzyme pairs (OGT, OGA, EOGT) in TCGA-BRCA
+  and in public resistant cell models, prioritizing miR-200c/EOGT as a hypothesis
+  for functional validation.
+type: software
+version: "2.1.0"
+date-released: "2026-11-14"
+license: MIT
+repository-code: "https://github.com/AlexCaFu/ogt-mirna-brca"
+keywords:
+  - breast cancer
+  - drug resistance
+  - O-GlcNAcylation
+  - hexosamine biosynthetic pathway
+  - microRNA
+  - miR-200c-3p
+  - EOGT
+  - TCGA
+  - integrative bioinformatics
+  - reproducibility
+authors:
+  - family-names: "Hernández-Huerta"
+    given-names: "María Teresa"
+    affiliation: >-
+      Centro de Investigación Facultad de Medicina UNAM-UABJO, Universidad
+      Autónoma Benito Juárez de Oaxaca, Oaxaca, Mexico; SECIHTI
+  - family-names: "Vasquez Martínez"
+    given-names: "Itzel Patricia"
+    affiliation: >-
+      Centro de Investigación Facultad de Medicina UNAM-UABJO, Universidad
+      Autónoma Benito Juárez de Oaxaca, Oaxaca, Mexico
+  - family-names: "Cabrera-Fuentes"
+    given-names: "Héctor A."
+    orcid: "https://orcid.org/0000-0002-8502-7098"
+    affiliation: >-
+      Vice Presidency for Scientific Research and Innovation, Imam Abdulrahman
+      Bin Faisal University, Dammam, Saudi Arabia; Tecnológico Nacional de México /
+      Instituto Tecnológico de Tijuana, Tijuana, Mexico
+preferred-citation:
+  type: article
+  title: "Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: an integrative analysis prioritizing the miR-200c-3p/EOGT node"
+  journal: "Drug Discovery Today"
+  year: 2026
+  authors:
+    - family-names: "Hernández-Huerta"
+      given-names: "María Teresa"
+    - family-names: "Vasquez Martínez"
+      given-names: "Itzel Patricia"
+    - family-names: "Cabrera-Fuentes"
+      given-names: "Héctor A."
+      orcid: "https://orcid.org/0000-0002-8502-7098"
