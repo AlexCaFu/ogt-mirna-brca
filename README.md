@@ -2,9 +2,9 @@
 
 Code, processed result tables, figure scripts and supplementary tables for the manuscript
 
-> Hernández-Huerta MT, Vasquez Martínez IP, Cabrera-Fuentes HA. Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: an integrative analysis prioritizing the miR-200c-3p/EOGT node. Manuscript submitted for publication, 2026.
+> Hernández-Huerta MT, Vasquez Martínez IP, Cabrera-Fuentes HA. MicroRNAs and O-GlcNAc enzymes in breast cancer drug resistance: the miR-200c-3p/EOGT hypothesis. Manuscript submitted for publication, 2026.
 
-This release (2.1.0, 15 November 2026) corresponds to manuscript version 7.
+Release v2.1.0 (15 November 2026), archived at https://doi.org/10.5281/zenodo.24252833, contains the analysis code and results reported in the submitted manuscript.
 
 ## What the analysis does
 
