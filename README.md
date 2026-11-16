@@ -1,4 +1,4 @@
-# Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: analysis code and processed results
+# MicroRNAs and O-GlcNAc enzymes in breast cancer drug resistance: analysis code and processed results
 
 Code, processed result tables, figure scripts and supplementary tables for the manuscript
 
