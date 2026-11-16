@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite both the article and this software archive."
-title: "Candidate microRNA regulation of O-GlcNAc-related enzymes in breast cancer drug resistance: analysis code and processed results"
+title: "MicroRNAs and O-GlcNAc enzymes in breast cancer drug resistance: analysis code and processed results"
 abstract: >-
   Code, processed result tables and figure scripts for an observational integrative
   analysis of twelve candidate microRNA-enzyme pairs (OGT, OGA, EOGT) in TCGA-BRCA
