@@ -1,4 +1,4 @@
-# Verification of manuscript version 7 against the deposited result files
+# Verification of the submitted manuscript against the deposited result files
 
 Generated on 15 November 2026. Each row gives a value printed in the manuscript, the deposited file it comes from, the value in that file, and whether the printed form was found in the manuscript text.
 
